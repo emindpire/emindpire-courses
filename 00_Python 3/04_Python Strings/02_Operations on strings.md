@@ -7,7 +7,7 @@ And now we're going to see some functions that can help us to edit our strings.
 		print(company.upper())
 
 	Result:
-		EMINDPIRE
+	EMINDPIRE
 
 2 - Lower function:
 	Simpily, its the opposite the the upper function,
@@ -16,7 +16,7 @@ And now we're going to see some functions that can help us to edit our strings.
 		print(company.lower())
 
 	Result:
-		emindpire
+	emindpire
 
 3 - Len function:
 	This function gives you the length of your string (number of charcters).
@@ -25,7 +25,7 @@ And now we're going to see some functions that can help us to edit our strings.
 		print(len(company))
 
 	Result:
-		9
+	9
 
 4 - Capitalize function:
 	This function will switch the first character of the string from the lower-case to the upper-case (Only if it were a letter).
@@ -34,7 +34,7 @@ And now we're going to see some functions that can help us to edit our strings.
 		print(company.capitalize()) 
 
 	Result:
-		Emindpire
+	Emindpire
 
 
 5 - Count function:
@@ -44,7 +44,7 @@ And now we're going to see some functions that can help us to edit our strings.
 		print(company.count('e'))
 
 	Result:
-		2
+	2
 
 
 Learn, Try and Practice
