@@ -18,6 +18,6 @@ Here you're going to Syntax Error
 
 What we Concluse:
 	- Strings can be written only in varibles or other data-types.
-	- Strings can be empty, contains (numbers, letters, symboles, etc)
+	- Strings can be empty or contains (numbers, letters, symboles, etc)
 	- Strings can be written inside single, double and triple quotes.
 
