@@ -22,3 +22,4 @@ What we Concluse:
 	- Strings can be empty or contains (numbers, letters, symboles, etc)
 	- Strings can be written inside single, double and triple quotes.
 
+Learn, Try and Practice
