@@ -1,4 +1,4 @@
-Python Developers made a specific way to make the string more flexible by adding some function on it.
+Python Developers made a specific way to make the string more flexible by adding some functions on it.
 
 So, if you wanna write a string with two lines or more. You can easily use the '\n' to make it.
 Lemme give you an example:
